@@ -1,0 +1,6 @@
+SegmentID,SegmentName,RiskCategory
+1,Prime Mortgage,Prime
+2,Prime Personal Loan,Prime
+3,Near-Prime Auto,Near-Prime
+4,Subprime Personal Loan,Subprime
+5,Small Business Term Loan,Near-Prime
